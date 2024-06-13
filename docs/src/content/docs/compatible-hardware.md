@@ -2,7 +2,9 @@
 title: Compatible hardware
 ---
 
-## Compatible hardware
+# Compatible hardware
+
+## MCU's
 
 | Chip    | Status |
 |---------|--------|
