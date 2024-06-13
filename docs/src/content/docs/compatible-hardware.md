@@ -1,3 +1,7 @@
+---
+title: Compatible hardware
+---
+
 ## Compatible hardware
 
 | Chip    | Status |
