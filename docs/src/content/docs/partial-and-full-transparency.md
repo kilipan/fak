@@ -1,3 +1,7 @@
+---
+title: Partial and full transparency
+---
+
 ### Partial and full transparency
 
 ```markdown
