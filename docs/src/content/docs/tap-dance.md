@@ -1,3 +1,7 @@
+---
+title: Tap dance
+---
+
 ## Tap dance
 
 Similar to ZMK, the bindings can be hold-taps! This means in the following example, if you do a tap-tap-hold, you'll momentarily access layer 2.
