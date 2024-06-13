@@ -1,3 +1,7 @@
+---
+title: Keyboards
+---
+
 ## Keyboards
 
 - [CH552-44, CH552-48, CH552-48-LPR by rgoulter](https://github.com/rgoulter/keyboard-labs#ch552-44-low-budget-hand-solderable-pcb-in-bm40jj40-form-factor). Ortholinears built on WeAct board and PCBA'd onboard CH552T.
