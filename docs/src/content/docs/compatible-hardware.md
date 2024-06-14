@@ -6,13 +6,16 @@ title: Compatible hardware
 
 ## MCU's
 
-| Chip    | Status |
-|---------|--------|
-| CH552T  | ✅ Fully supported and tested |
-| CH552G  | ✅ Fully supported and tested |
-| CH552E  | ✅ Fully supported and tested |
-| CH559L  | 🚧 Partially working, WIP |
-| CH558L  | ❓ Not tested but should be the same as CH559L |
+| Chip    | Status | Usable I/O pins |
+|---------|---------|---------|
+| CH552T  | ✅ Fully supported and tested | 14 |
+| CH552G  | ✅ Fully supported and tested | 10 |
+| CH552E  | ✅ Fully supported and tested | 4 |
+| CH552P  | ❓ Not tested | 11 |
+| CH559L  | 🚧 Partially working, WIP | 42 |
+| CH559T  | 🚧 Partially working, WIP | 14 |
+| CH558L  | ❓ Not tested (CH559L equivalent) | 42 |
+| CH558T  | ❓ Not tested (CH559T equivalent) | 14 |
 
 ## Dev boards
 
