@@ -1,5 +1,8 @@
+---
+title: Split keyboard support
+---
 
-### Split support
+### Split keyboard support
 
 ```markdown
 ## Split support

@@ -1,3 +1,7 @@
+---
+title: Composable keycodes
+---
+
 ## Composable keycodes
 
 Keycodes are in 32 bits. 16 for the hold portion. 16 for the tap portion. If both portions exist, you get a hold-tap.

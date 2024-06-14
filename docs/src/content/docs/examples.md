@@ -1,3 +1,7 @@
+---
+title: Examples
+---
+
 ## Examples
 
 Check out the examples and see how keyboards and keymaps are defined in FAK, and how powerful and crazy it can get.
