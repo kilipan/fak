@@ -1,7 +1,16 @@
 ## Combos
 
-Combos are implemented as *virtual keys*. They're like regular keys but they are activated by pressing multiple physical keys at the same time. And since they're like regular keys, they're just like any other key in your keymap with full support for all the features. They can even have different keycodes across layers.
+Combos are implemented as *virtual keys*. They're like regular keys, but they are activated by pressing multiple physical keys simultaneously. And since they're like regular keys, they're just like any other key in your keymap with full support for all the features. They can even have different keycodes across layers.
 
+IMPORTANT NOTE: As you will see in the example below, There are 6 keys and 3 virtual keys, for a total of 9 keys. If you have complex hold-tap behaviors set up, you need to add those keys into your behaviors as well.
+
+## Definitions:
+combo.slow_release — By default, the combo is released once any combo key is released. Adding this to your combo means that both keys have to be released before it registers. 
+
+combo.require_prior_idle_ms - During fast typing, you might want to ignore combos to prevent triggering them temporarily. You can prevent this by adding this to your combo.
+
+
+Here are several examples of how this is implemented: 
 ```
 let kc = tap.reg.kc in
 let mod = hold.reg.mod in
